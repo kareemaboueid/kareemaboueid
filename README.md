@@ -10,7 +10,7 @@ I’m interested in:
 Building developer tools, scalable back-end services, automation scripts, and productivity-enhancing utilities.
 
 How to reach me:
-  [Linkedin](https://www.linkedin.com/in/kareemaboueid)
+  [Linkedin](https://www.linkedin.com/in/kareemaboueid) | 
   [Email](mailto:kareem_aboueid@outlook.com)
 
 <!--
