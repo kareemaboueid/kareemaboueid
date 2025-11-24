@@ -1,31 +1,9 @@
-# 👋 Hi, I'm Kareem
+Hi, I'm Kareem Aboueid
 
-**Back-end Engineer**
-
-Passionate about building scalable APIs, system architecture, and modern web technologies.
-Based in Jeddah, Saudi Arabia
-Always learning, Always building, and Always debugging.
+I’m a software engineer specialized in back-end development and web technologies.  
+I focus on designing and building scalable APIs, getting better at system architectures, security, and understanding the core concepts of web back-end.
 
 I’m interested in:
-Building developer tools, scalable back-end services, automation scripts, and productivity-enhancing utilities.
+Building developer tools, scalable back-end services, system design that scales, automation scripts, and productivity-enhancing utilities.
 
-[![roadmap.sh](https://roadmap.sh/card/tall/66fb258ae52a9bf476294896?variant=dark)](https://roadmap.sh)
-
-How to reach me:
-  [Linkedin](https://www.linkedin.com/in/kareemaboueid) | 
-  [Email](mailto:kareem_aboueid@outlook.com)
-
-<!--
-**kareemaboueid/kareemaboueid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/kareemaboueid) • [Email](mailto:kareem_aboueid@outlook.com)
